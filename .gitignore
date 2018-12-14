@@ -49,5 +49,6 @@ bower.json
 # Ignore node_modules
 node_modules/
 
-
+# Ignore Spring files.
+/spring/*.pid
 
